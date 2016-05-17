@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShowGoogleMaps</string>
+    <string name="show_current_location">Current Location</string>
+    <string name="icon_generator">Icon Generator</string>
+    <string name="calculate_total_distance">Calculate Total Distance</string>
+    <string name="title_activity_maps">ShowMap</string>
+</resources>
